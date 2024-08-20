@@ -19,10 +19,10 @@
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=plastic&logo=gmail" alt="gmail">
 </a>
 <a href="https://linkedin.com/in/gabriel-fragoso" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=linkedin&logoColor=0072B1" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gabriel-05122A?style=plastic&logo=linkedin&logoColor=0072B1" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gabrielfragoso__" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-hatus-05122A?style=plastic&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gabriel-05122A?style=plastic&logo=instagram" alt="instagram"/>
 </a>
 
 ## GitHub Analytics
